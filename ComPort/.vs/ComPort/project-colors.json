@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f55dd2e-6617-41de-b7f2-36e3ccfc1483": {
+      "ProjectGuid": "4f55dd2e-6617-41de-b7f2-36e3ccfc1483",
+      "DisplayName": "ComPort",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9b0b2808-ac99-4689-825c-eea5e782235c": {
+      "ProjectGuid": "9b0b2808-ac99-4689-825c-eea5e782235c",
+      "DisplayName": "DIY_Serial Terminal",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
